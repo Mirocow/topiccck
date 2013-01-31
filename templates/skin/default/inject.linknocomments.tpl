@@ -1,0 +1,1 @@
+<li {if $sMenuSubItemSelect=='nocomments'}class="active"{/if}><a href="{router page='index'}nocomments/">{$aLang.plugin.topiccck.nocomments}</a></li>

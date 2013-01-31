@@ -1,0 +1,17 @@
+Options -Indexes
+<Files ~ "\.sql$">
+    Order allow,deny
+    Deny from all
+</Files>
+<Files ~ "\.dat$">
+    Order allow,deny
+    Deny from all
+</Files>
+<Files ~ "\.txt$">
+    Order allow,deny
+    Deny from all
+</Files>
+<Files ~ "\.php$">
+    Order allow,deny
+    Deny from all
+</Files>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>
+        <lang name="default">TOPICcck</lang>
+        <lang name="russian">TOPICcck</lang>
+    </name>
+    <author>
+        <lang name="default">extravert (support@lsmods.ru)</lang>
+    </author>
+    <homepage>http://lsmods.ru</homepage>
+	<settings>{cckadmin}</settings>
+    <version>1.2</version>
+    <requires>
+        <livestreet>1.0.*</livestreet>
+        <plugins>
+        </plugins>
+    </requires>
+    <description>
+        <lang name="default">TOPICcck - дополнительные типы топиков и поля для топиков. Связь с объектами DAO.</lang>
+    </description>
+</plugin>

@@ -1,0 +1,11 @@
+.topiccck-on{color:green;}
+.topiccck-off{color:red;}
+
+li.graytext{color:gray;padding-top: 4px;}
+
+.topic-photo-images ul, .topic-photo-images ol {
+    list-style: none outside none !important; padding: 0px !important;
+}
+
+.submit_topiccck_button {border-top: 1px solid #999;padding:10px;margin-top: 45px;}
+.topiccck_thead{background:#d2d2d2; }
